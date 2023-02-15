@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "script.js",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "jquery": "^3.6.3",
+    "modaal": "^0.4.4",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0ys1516/Sytin.git"
+  },
+  "author": "s0ys1516",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0ys1516/Sytin/issues"
+  },
+  "homepage": "https://github.com/s0ys1516/Sytin#readme"
+}
